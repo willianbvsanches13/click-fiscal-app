@@ -1,0 +1,6 @@
+{
+  "name": "click-fiscal-api",
+  "stage": "dev",
+  "region": "sa-east-1",
+  "lint": true
+}
